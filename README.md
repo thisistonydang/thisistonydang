@@ -1,5 +1,9 @@
 ## Hi there! I'm Tony 👋
 
+I'm a web developer located in the Bay Area, CA. I'm a polyglot dabbling in various programming languages, but my current favorites are TypeScript and Elixir. Outside of coding, I also love climbing and calisthenics. :)
+
+My personal website is [tonydang.blog](https://tonydang.blog). You can reach me at [tony@tonydang.blog](mailto:tony@tonydang.blog) or on most social media platforms (links in my profile). Or, better yet, let's have a [video chat](https://tonydang.blog/unoffice-hours/)!
+
 <!--
 **tonydangblog/tonydangblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
