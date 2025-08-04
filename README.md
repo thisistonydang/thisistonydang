@@ -1,6 +1,6 @@
 ## Hi there! This is Tony 👋
 
-I'm a web developer based in the Bay Area, CA, and a polyglot who enjoys experimenting with various programming languages. My current favorites are TypeScript and Elixir. I'm excited about all things web, especially Svelte, Elixir, PWAs, local-first, and self-hosting. Outside of coding, I also love climbing and calisthenics. :)
+I'm a web developer based in the Bay Area, CA, and a polyglot who enjoys experimenting with various programming languages. My current favorites are TypeScript, Elixir, and Go. I'm excited about all things web, especially Svelte, Elixir, Go, PWAs, local-first, and deploying with containers. Outside of coding, I also love climbing and calisthenics. :)
 
 You can find my personal website at [tonydang.com](https://tonydang.com), and you can reach me at [tony@tonydang.com](mailto:tony@tonydang.com) or on most social platforms (links in my profile). Or, better yet, let's have a [video chat](https://tonydang.com/unoffice-hours/)!
 
